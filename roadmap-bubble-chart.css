@@ -1,0 +1,32 @@
+svg {
+	border: 1px solid black;
+}
+
+.axis line,
+.axis path {
+	fill: none;
+	shape-rendering: crispEdges;
+	stroke: #000000;
+}
+
+.circle,
+.vertical-line {
+	opacity: 0.85;
+}
+
+	.circle-label {
+		font-family: Helvetica;
+	}
+	
+#horizontal-line {
+	opacity: 0.75;
+	shape-rendering: crispEdges;
+}
+
+.x-axis {
+	
+}
+
+	.x-axis-label {
+		font-family: Helvetica;
+	}
